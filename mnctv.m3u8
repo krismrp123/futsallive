@@ -1,4 +1,4 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:PROGRAM-ID=1,CLOSED-CAPTIONS=NONE,BANDWIDTH=1500000,NAME=720p,RESOLUTION=1280x720
-https://cubmu.superzap.xyz:8279/indosiar/playlist.m3u8
+https://etslive-2-vidio-com.akamaized.net/exp=1641733141~acl=/hls-p/ingest_8565_*/*~hmac=6160135eb582ac30656ac09d0b1502247c386332dc7cdc1be43498460076621e/hls-p/ingest_8565_480p/index.m3u8
